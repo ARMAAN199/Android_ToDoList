@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="purple">#800080</color>
+    <color name="orange">#FFA500</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="brown">#A52A2A</color>
+    <color name="grey">#808080</color>
+    <color name="teal">#008080</color>
+    <color name="navy">#000080</color>
+    <color name="maroon">#800000</color>
+    <color name="olive">#808000</color>
+    <color name="lime">#00FF00</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gold">#FFD700</color>
+    <color name="indigo">#4B0082</color>
+    <color name="violet">#EE82EE</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="coral">#FF6F61</color>
+    <color name="orchid">#DA70D6</color>
+    <color name="peru">#CD853F</color>
+    <color name="plum">#DDA0DD</color>
+    <color name="crimson">#DC143C</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="sienna">#A0522D</color>
+    <color name="salmon">#FA8072</color>
+    <color name="tomato">#FF6347</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="seashell">#FFF5EE</color>
+    <color name="thistle">#D8BFD8</color>
+    <color name="wheat">#F5DEB3</color>
+    <color name="cornsilk">#FFF8DC</color>
+    <color name="bisque">#FFE4C4</color>
+    <color name="antiquewhite">#FAEBD7</color>
+    <color name="moccasin">#FFE4B5</color>
+    <color name="peachpuff">#FFDAB9</color>
+    <color name="papayawhip">#FFEFD5</color>
+    <color name="blanchedalmond">#FFEBCD</color>
+    <color name="navajowhite">#FFDEAD</color>
+    <color name="mistyrose">#FFE4E1</color>
+    <color name="oldlace">#FDF5E6</color>
+    <color name="linen">#FAF0E6</color>
+    <color name="lemonchiffon">#FFFACD</color>
+    <color name="lavenderblush">#FFF0F5</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="ghostwhite">#F8F8FF</color>
+    <color name="floralwhite">#FFFAF0</color>
+    <color name="honeydew">#F0FFF0</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="mintcream">#F5FFFA</color>
+
+        <color name="lightPrimary">#F2BAC9</color>
+        <color name="primary">#E64C4C</color>
+        <color name="darkPrimary">#A82E2E</color>
+
+        <!-- Secondary Color -->
+        <color name="lightSecondary">#8ACDEA</color>
+        <color name="secondary">#3E82CC</color>
+        <color name="darkSecondary">#2B5C99</color>
+
+        <!-- Accent Color -->
+        <color name="lightAccent">#FFD766</color>
+        <color name="accent">#FFA726</color>
+        <color name="darkAccent">#B24C00</color>
+
+        <!-- Neutral Color -->
+        <color name="lightNeutral">#E5E5E5</color>
+        <color name="neutral">#9E9E9E</color>
+        <color name="darkNeutral">#616161</color>
+
+        <!-- Success Color -->
+        <color name="lightSuccess">#A5D6A7</color>
+        <color name="success">#66BB6A</color>
+        <color name="darkSuccess">#388E3C</color>
+
+        <!-- Warning Color -->
+        <color name="lightWarning">#FFD54F</color>
+        <color name="warning">#FF9800</color>
+        <color name="darkWarning">#F57C00</color>
+
+        <!-- Danger Color -->
+        <color name="lightDanger">#EF9A9A</color>
+        <color name="danger">#F44336</color>
+        <color name="darkDanger">#D32F2F</color>
+
+        <!-- Info Color -->
+        <color name="lightInfo">#64B5F6</color>
+        <color name="info">#2196F3</color>
+        <color name="darkInfo">#1976D2</color>
+
+
+
+</resources>
